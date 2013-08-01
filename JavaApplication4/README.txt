@@ -1,5 +1,10 @@
 Done by Juan Ricardo Rodriguez Amaya
 
+Karatsuba calculator, is a calculator that multiplies big integers 
+with the algorithm done by karatsuba, it makes unit tests with 
+invalid values(strings and special characters) , negative numbers, 
+different sized numbers and odd sized numbers.
+
 This project was made in Netbeans IDE 7.3
 
 -------How to run this proyect---------
