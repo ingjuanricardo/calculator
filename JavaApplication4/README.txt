@@ -22,4 +22,5 @@ NOTE if you don't know how to run the project, follow the next steps:
 Right click on run, right click on Run File.
 
 -------Machine/instalation requirements--------
-To run this project you must install Java on your desktop, if you want to see the code you must install Netbeans IDE 7.3 or a newer version
+To run this project you must install Java on your desktop, if you want to see 
+the code you must install Netbeans IDE 7.3 or a newer version
